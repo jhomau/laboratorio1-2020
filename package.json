@@ -1,0 +1,20 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jhomau/laboratorio1-2020.git"
+  },
+  "author": "Mauricio Mamani Chambi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhomau/laboratorio1-2020/issues"
+  },
+  "homepage": "https://github.com/jhomau/laboratorio1-2020#readme"
+}
